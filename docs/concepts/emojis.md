@@ -290,7 +290,7 @@ Your filepath should look like this:
 
 ### Finding the correct hex.
 
-Once you have emojis inside the `glyph_E0.png` or `glyph_E1.png` you need to find your character "code" so it can be converted.
+Once you have emojis inside the `glyph_E0.png` or `glyph_E1.png` you need to find your character "code" so it can be converted into the path file.
 
 The first two characters are always `0x`.
 
